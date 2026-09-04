@@ -5,7 +5,7 @@
 - **Student name** : Rohan Baig
 - **Roll / Registration Number** : 26K-3089
 - **Course** : Programming Fundamental
-- **Repository Name** :<img width="1040" height="1000" alt="image" src="https://github.com/user-attachments/assets/5f45c63a-2b0a-4f9b-b440-f6d99987e38c" />
+- **Repository Name** :<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5f45c63a-2b0a-4f9b-b440-f6d99987e38c" />
 
 
 ## Project Overview & Objectives
